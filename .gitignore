@@ -4,4 +4,4 @@
 *.gz
 *.zip
 temp-notsync/
-0*
+0 *
