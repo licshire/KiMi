@@ -120,7 +120,7 @@
 创业：《从0到1》 《创业者手册》 《第五项修炼》 《独力企业》
 教育：《学记》 《少有人走的路》
 
-> 参考  
+## 参考  
 
 [如何发起一场运动](http://open.163.com/movie/2011/7/9/T/M7B9KH4N6_M7BA9TF9T.html)--TED视频时长3分钟  
 [中文编辑排版](http://mazhuang.org/wiki/chinese-copywriting-guidelines/)  
