@@ -225,7 +225,7 @@ A high productivity, full-stack web framework for the Go language. http://revel.
 
 > 最深刻的思考，最精简的知识，最智能的工具，最高效的协同，传承智慧创新未来！
 
-[GitHub源计划项目社群分享](https://github.com/GYGit/KiMi/blob/master/social社群分享.md)  
+[GitHub源计划项目社群分享](https://github.com/GYGit/KiMi/blob/master/socialshare社群分享.md)  
 请不吝赐教，一起完善！并开发工具自动化支持以创造普遍价值扩大影响力！  
 
 千里之行始于足下、不积跬步无以致千里。君子生非异业也，善假于物也！  
