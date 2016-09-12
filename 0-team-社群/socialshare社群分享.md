@@ -167,7 +167,6 @@
 
 [如何发起一场运动](http://open.163.com/movie/2011/7/9/T/M7B9KH4N6_M7BA9TF9T.html)--TED视频时长3分钟  
 [为了自己](http://open.163.com/movie/2011/7/0/A/M78065A8E_M7806OF0A.html)
-
 [中文编辑排版](http://mazhuang.org/wiki/chinese-copywriting-guidelines/)  
 [提问的智慧](http://www.jianshu.com/p/60dd8e9cd12f)，这个有点长！！  
 【GitHub项目托管】/[GYGit](https://github.com/GYGit)  
